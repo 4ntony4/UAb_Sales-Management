@@ -1,4 +1,4 @@
-% File: efB.pl
+% File: smallSalesManagement.pl
 %
 % Linguagens de Programação
 % e-folio B
