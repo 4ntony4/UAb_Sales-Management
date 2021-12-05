@@ -1,6 +1,6 @@
 # UAb_smallSalesManagement
 
-[![SWI-Prolog Ready to Run](https://img.shields.io/badge/SWI--Prolog-Ready_to_Run-orange)](https://swish.swi-prolog.org/p/smallSalesManagement.pl)
+[![SWI-Prolog Ready to Run](https://img.shields.io/badge/SWI--Prolog-Ready_to_Run-informational?labelColor=white)](https://swish.swi-prolog.org/p/smallSalesManagement.pl)
 
 [EN] This project was made under the Curricular Unit of **Programming Languages** in the Computer Science and Engineering Bachelor Program of Universidade Aberta, academic year of 2020-21.
 
