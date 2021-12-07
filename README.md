@@ -9,5 +9,5 @@
 ## Compile
 	[smallSalesManagement].
 	
-## <a href="https://www.swi-prolog.org/"><img src="https://raw.githubusercontent.com/4ntony4/UAb/main/img/logos/prolog/prolog_logo.png" alt="Prolog" width="35"></a> SWI-Prolog
-Run it [here](https://swish.swi-prolog.org/p/smallSalesManagement.pl).
+## <a href="https://www.swi-prolog.org/"><img src="https://raw.githubusercontent.com/4ntony4/UAb/main/img/logos/prolog/swi-prolog.png" alt="Prolog" width="35"></a> SWI-Prolog
+Run it on SWISH <a href="https://swish.swi-prolog.org/"><img src="https://raw.githubusercontent.com/4ntony4/UAb/main/img/logos/prolog/swish.png" alt="Octave Online" height="30"></a> [here](https://swish.swi-prolog.org/p/smallSalesManagement.pl).
