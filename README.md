@@ -1,4 +1,4 @@
-# Small Sales Management
+# Sales Management
 
 [![SWI-Prolog Ready to Run](https://img.shields.io/badge/SWI--Prolog-Ready_to_Run-informational?labelColor=white)](https://swish.swi-prolog.org/p/smallSalesManagement.pl)
 
